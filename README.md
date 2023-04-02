@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Vishnu. A passionate Data Analyst :man_technologist::mag: to uncover insights and solve complex problems that drive business success.
+I'm Vishnu. A passionate Data Analyst:man_technologist: trying to uncover insights:mag: from Data!
 
 <!--
 **vishnu-t-r/vishnu-t-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
