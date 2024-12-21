@@ -7,7 +7,7 @@ Explore my work across the following platforms to get a better understanding of 
 - **DataSciencePortfolio** :  https://www.datascienceportfol.io/trvishnu
 - **LinkedIn** : https://www.linkedin.com/in/trvishnu/
 - **Youtube** : https://www.youtube.com/@dataprojecthub
-- **Medium** : https://medium.com/@vishnutrvishnutr
+- **Medium** : https://vishnutr.medium.com/
 - **Tableau Public** : https://public.tableau.com/app/profile/vishnu.t.r/vizzes
 
 <!-- 
